@@ -173,7 +173,7 @@ Pull requests and improvements are welcome!
 
 ## 👨‍💻 Author
 
-Developed by [Harshad Kokkinti]  
+Developed by Harshad Kokkinti  
 Connect on [GitHub](https://github.com/Harshad712)
 
 ---
