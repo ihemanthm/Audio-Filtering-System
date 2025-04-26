@@ -33,8 +33,8 @@ An AI-powered audio filtering system that isolates the **primary speaker’s voi
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Harshad712/audio-filtering-system.git
-cd audio-filtering-system
+git clone https://github.com/ihemanthm/Audio-Filtering-System
+cd Audio-Filtering-System
 ```
 
 ---
@@ -115,11 +115,11 @@ python gradio_app.py
 
 ---
 
-## 🌐 Deployment
+<!-- ## 🌐 Deployment
 
 You can Access this project in hugging face at `https://huggingface.co/spaces/Harshad712/audio-filtering-system`
 
----
+--- -->
 
 ## 📊 Evaluation Metrics
 
@@ -171,12 +171,12 @@ Pull requests and improvements are welcome!
 
 ---
 
-## 👨‍💻 Author
+<!-- ## 👨‍💻 Author
 
 Developed by Harshad Kokkinti  
 Connect on [GitHub](https://github.com/Harshad712)
 
----
+--- -->
 
 ## 📚 References
 
